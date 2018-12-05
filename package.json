@@ -19,7 +19,6 @@
     "vuejs-countdown": "^0.2.1"
   },
   "devDependencies": {
-    "nodemon": "^1.11.0",
-    "vue-particles": "^1.0.9"
+    "nodemon": "^1.11.0"
   }
 }

@@ -33,7 +33,7 @@ module.exports = {
   ** Plugins to load before mounting the App
   */
  plugins: [
-  {src:"~plugins/vue-particles",ssr:false}
+  {src:"~plugins/vue-particles",ssr:false},
 ],
 
   /*

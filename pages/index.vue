@@ -5,7 +5,8 @@
     <br><br><br><br>
     <span>
       <h2>Chistams is in</h2>
-      <Countdown deadline="December 25, 2018"></Countdown>
+      <no-ssr>
+      <Countdown deadline="December 25, 2018"></Countdown></no-ssr>
     </span>
     <snowman></snowman>
   </div>
@@ -47,4 +48,5 @@
     padding-right: 10px;
     
   }
+
 </style>
