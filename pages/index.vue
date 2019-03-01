@@ -6,7 +6,7 @@
     <span>
       <h2>Chistams is in</h2>
       <no-ssr>
-      <Countdown deadline="December 25, 2018"></Countdown></no-ssr>
+      <Countdown deadline="December 25, 2019"></Countdown></no-ssr>
     </span>
     <snowman></snowman>
   </div>
